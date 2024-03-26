@@ -10,7 +10,7 @@ Things I am interested in are time series analysis, geospatial data processing, 
 
 Here are some of the fun projects I am working on:
 
-- take a look at [public repo](https://github.com/evgeniyarbatov/public) where I publish variety of scripts_
+- take a look at [public repo](https://github.com/evgeniyarbatov/public) where I publish variety of scripts
 - visualizing [marathon running records](https://github.com/evgeniyarbatov/marathons)
 - using Stellarium to [create videos of the night sky](https://github.com/evgeniyarbatov/stargazing-on-the-run) I see while out on my runs
 
