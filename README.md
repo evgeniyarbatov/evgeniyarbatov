@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **APIs, AWS, Pandas, Kubernetes, JavaScript**
 
-- ⚡ Fun fact **Time series analysis, geospatial data processing, music, running and astronomy - what do they have in common?**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/evgeniyarbatov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evgeniyarbatov" height="30" width="40" /></a>
