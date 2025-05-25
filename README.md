@@ -6,7 +6,9 @@ Lately, I’ve been working extensively with maps and location data. I naturally
 
 ## Why I Code
 
-For me, writing code is a creative endeavor. I'm driven by the challenge of bringing ideas to life and building systems that do meaningful, useful work. My goal is to design solutions that are as simple and reliable as possible. I have a strong dislike for unnecessary complexity, dead code, and projects without clear direction. In my work, I draw inspiration from nature—seeking to create systems that are both elegant and enduring.
+For me, writing code is a creative endeavor. I'm driven by the challenge of bringing ideas to life and building systems that do meaningful, useful work. My goal is to design solutions that are as simple and reliable as possible. 
+
+I have a strong dislike for unnecessary complexity, dead code, and projects without clear direction. In my work, I draw inspiration from nature—seeking to create systems that are both elegant and enduring.
 
 ## How I Became a Data Engineer
 
