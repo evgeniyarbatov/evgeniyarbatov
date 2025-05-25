@@ -1,4 +1,4 @@
-## How I Became Data Engineer
+## How I Became a Data Engineer
 
 My journey into data began in an unexpected way—through boredom with SQL queries. Most of the time, they felt routine. But every so often, I’d encounter a problem I couldn’t immediately solve. Those moments turned into valuable learning experiences. As I worked through various datasets and gradually uncovered patterns and relationships, I felt like a detective piecing together clues.
 
