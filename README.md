@@ -1,3 +1,9 @@
+## What I Work On
+
+My work focuses on data exploration—combining multiple, often unrelated data sources to build practical, real-world applications. I usually tackle problems I’ve encountered myself, which means I work on systems that prioritize usefulness over massive scale.
+
+Lately, I’ve been working extensively with maps and location data. I naturally gravitate toward backend development, with an emphasis on integrating APIs. When needed, I build minimal frontends to make these tools accessible and easy to use.
+
 ## Why I Code
 
 For me, writing code is a creative endeavor. I'm driven by the challenge of bringing ideas to life and building systems that do meaningful, useful work. My goal is to design solutions that are as simple and reliable as possible. I have a strong dislike for unnecessary complexity, dead code, and projects without clear direction. In my work, I draw inspiration from nature—seeking to create systems that are both elegant and enduring.
