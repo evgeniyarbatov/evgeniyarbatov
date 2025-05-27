@@ -4,7 +4,7 @@ My work centers around data exploration to build practical applications along th
 
 ## Why I Code 
 
-For me writing code is a creative endeavor. My main interest is in bringing ideas to life and creating systems that do useful work. What I aim to achieve are the designs that are as simple as possible and are reliable. In my work I find inspiration from looking at nature.
+For me writing code is a creative endeavor. My main interest is in bringing ideas to life and creating systems that do useful work. What I aim to achieve are the designs that are as simple as possible and are reliable. I find inspiration from looking at nature.
 
 ## How I Became Data Engineer 
 
