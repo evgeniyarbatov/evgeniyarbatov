@@ -10,6 +10,6 @@ For me writing code is a creative endeavor. My main interest is in bringing idea
 
 The story of my interest in data begins with being bored writing SQL queries. As I would struggle and slowly learn new evidence, a picture would emerge. It was very much like detective work where you have clues and use logic to solve a puzzle. 
 
-The next step came on one of the weekend runs. I thought that there was a lot of data collected by fitness watches but we do not know what to do with all of it. I decided to spend time exploring and making sense of fitness and location data. 
+The next step came on one of the weekend runs. I thought that there was a lot of data collected by fitness watches but we do not know what to do with all of it. I decided to spend time exploring and making sense of fitness data. 
 
-Getting lost during the ultra running races made me think more deeply about maps, navigation and practical limitations of the devices I carry. Inspired by finding new places to run in my neighborhood I explored OpenStreetMaps and GNSS systems.
+Getting lost during the ultra running races made me think more about maps, navigation and practical limitations of the devices I carry. Inspired by finding new places to run in my neighborhood I explored OpenStreetMaps and GNSS systems.
