@@ -12,4 +12,4 @@ The story of my interest in data begins with being bored writing SQL queries. As
 
 The next step came on one of the weekend runs. I thought that there was a lot of data collected by fitness watches but we do not know what to do with all of it. I decided to spend time exploring and making sense of fitness and location data. 
 
-Getting lost during the ultra running races made me think more deeply about maps, navigation and practical limitations of the devices I carry. Around the same time I moved to Hanoi where finding a safe place to run became a challenge. This gave me inspiration to explore Open Street Maps, as well as dive into GNSS systems and location accuracy. 
+Getting lost during the ultra running races made me think more deeply about maps, navigation and practical limitations of the devices I carry. Inspired by finding new places to run in my neighborhood I started to explore OpenStreetMaps, as well as dive into GNSS systems and location accuracy. 
