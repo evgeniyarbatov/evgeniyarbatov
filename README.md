@@ -1,6 +1,6 @@
 ## What I Work On 
 
-My work centers around data exploration to build practical applications along the way. I tend to solve problems I encounter myself and therefore work with systems that do not require scaling to millions of users. I tend to build backends and integrate APIs with minimal frontends to make them usable.
+My work centers around data exploration to build practical applications along the way. I tend to solve problems I encounter myself. Recently, I have been working with maps and location data. I build backends and integrate APIs with minimal frontends to make them usable.
 
 ## Why I Code 
 
