@@ -1,15 +1,17 @@
-## What I Work On 
+# Full-Stack Developer
 
-My work centers around data exploration to build practical applications along the way. I tend to solve problems I encounter myself. I build backends and integrate APIs with minimal frontends to make them usable.
+## What I work on
+I build tools for GPS data processing, cloud infrastructure, and data analysis. Most of my recent work focuses on geospatial technologies and automating deployments.
 
-## Why I Code 
+## Technologies I use
+**Languages**: Python, TypeScript, Go, JavaScript, Lua  
+**Data work**: Jupyter Notebooks, statistical analysis, data visualization  
+**Infrastructure**: AWS, Kubernetes, Terraform  
+**Geospatial**: GPX file processing, mapping, route analysis  
 
-For me writing code is a creative endeavor. My main interest is in bringing ideas to life and creating systems that do useful work. What I aim to achieve are the designs that are as simple as possible and are reliable. I find inspiration from looking at nature.
+## Recent projects
+- GPS data processing tools (anonymization, route optimization, mapping)
+- Fitness device data analysis (Garmin vs Polar comparison)
+- Various mapping and route generation tools
 
-## How I Became Data Engineer 
-
-The story of my interest in data begins with being bored writing SQL queries. As I would struggle and slowly learn new evidence, a picture would emerge. It was very much like detective work where you have clues and use logic to solve a puzzle. 
-
-The next step came on one of the weekend runs. I thought that there was a lot of data collected by fitness watches but we do not know what to do with all of it. I decided to spend time exploring and making sense of fitness data. 
-
-Getting lost during the ultra running races made me think more about maps, navigation and practical limitations of the devices I carry. Inspired by finding new places to run in my neighborhood I explored OpenStreetMaps and GNSS systems.
+Currently interested in roles involving full-stack development, data engineering, or cloud infrastructure.
