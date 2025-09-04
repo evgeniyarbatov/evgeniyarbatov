@@ -10,11 +10,10 @@ I build tools for GPS data processing, cloud infrastructure, and data analysis. 
 **Geospatial**: GPX file processing, mapping, route analysis  
 
 ## Current projects
-- **GPS processing tools**: Route optimization, data anonymization, mapping visualization
-- **Fitness device analysis**: Comparing Garmin vs Polar tracking accuracy
+- **GPS processing ecosystem**: Route optimization, data anonymization, mapping visualization, accuracy analysis
+- **Fitness device research**: Comparing Garmin vs Polar tracking, GNSS satellite positioning
 - **Cloud automation**: Kubernetes deployments with Terraform, on-demand EC2 provisioning
 - **Route generation**: Custom GPX creation for running routes using OpenStreetMap data
-- **Data analytics**: A/B testing frameworks, location-based analysis
 
 ## Notable repositories
 - **[garmin-vs-polar](https://github.com/evgeniyarbatov/garmin-vs-polar)**: Compare GPX accuracy between fitness devices
