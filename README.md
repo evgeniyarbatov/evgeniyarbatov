@@ -4,7 +4,7 @@
 I build tools for GPS data processing, cloud infrastructure, and data analysis. Most of my recent work focuses on geospatial technologies and automating deployments.
 
 ## Technologies I use
-**Languages**: Python, TypeScript, Go, JavaScript, Lua  
+**Languages**: Python, TypeScript, Go, JavaScript  
 **Data work**: Jupyter Notebooks, statistical analysis, data visualization  
 **Infrastructure**: AWS, Kubernetes, Terraform  
 **Geospatial**: GPX file processing, mapping, route analysis  
