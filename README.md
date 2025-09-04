@@ -24,6 +24,4 @@ I build tools for GPS data processing, cloud infrastructure, and data analysis. 
 - **[understand-running-routes](https://github.com/evgeniyarbatov/understand-running-routes)**: Discover running preferences using OpenStreetMap
 
 ## Background
-I work with everything from data science notebooks to cloud infrastructure, with a particular focus on geospatial data and route optimization.
-
-Currently interested in roles involving full-stack development, data engineering, or cloud infrastructure.
+I work with everything from data science notebooks to cloud infrastructure, with a particular focus on geospatial data and route optimization. Currently interested in roles involving full-stack development, data engineering, or cloud infrastructure.
