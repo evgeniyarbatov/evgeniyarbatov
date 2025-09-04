@@ -15,13 +15,5 @@ I build tools for GPS data processing, cloud infrastructure, and data analysis. 
 - **Cloud automation**: Kubernetes deployments with Terraform, on-demand EC2 provisioning
 - **Route generation**: Custom GPX creation for running routes using OpenStreetMap data
 
-## Notable repositories
-- **[garmin-vs-polar](https://github.com/evgeniyarbatov/garmin-vs-polar)**: Compare GPX accuracy between fitness devices
-- **[[private]](https://github.com/evgeniyarbatov/[private])**: Simplifying Kubernetes deployment and monitoring  
-- **[[private]](https://github.com/evgeniyarbatov/[private])**: Remove personal information from GPX files
-- **[[private]](https://github.com/evgeniyarbatov/[private])**: Start EC2 instances via API Gateway requests
-- **[[private]](https://github.com/evgeniyarbatov/[private])**: Custom A/B testing for ExpressJS applications
-- **[[private]](https://github.com/evgeniyarbatov/[private])**: Discover running preferences using OpenStreetMap
-
 ## Background
 I work with everything from data science notebooks to cloud infrastructure, with a particular focus on geospatial data and route optimization. Currently interested in roles involving full-stack development, data engineering, or cloud infrastructure.
