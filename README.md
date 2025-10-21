@@ -1,4 +1,4 @@
-# Full-Stack Developer
+# Fullstack Developer
 
 ## What I work on
 I build tools for GPS data processing, cloud infrastructure, and data analysis. Most of my recent work focuses on geospatial technologies and automating deployments.
