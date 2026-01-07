@@ -1,3 +1,3 @@
 # Fullstack Engineer
 
-I build tools for geospatial data processing and visualization using Python, JavaScript/React, and deploy with Docker/Terraform.
+I build tools that make sense of messy real-world data. I use Python, JavaScript/React, and deploy with Docker/Terraform.
