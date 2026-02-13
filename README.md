@@ -6,6 +6,6 @@ I write code to make sense of real-world data.
 [outside](https://outside.gritcuriosityandperseverance.org) - get current weather and air pollution  
 [weather](https://weather.gritcuriosityandperseverance.org) - render last 48 hours of weather data for specific location  
 [VR ultra run](https://vietnam-vr-ultra.gritcuriosityandperseverance.org) - virtual challenge to run length of Vietnam  
-[Singapore streets](https://github.com/evgeniyarbatov/singapore-streets) - scrape Singapore street names from OSM 
+[Singapore streets](https://github.com/evgeniyarbatov/singapore-streets) - scrape Singapore street names from OSM  
 [GNSS](https://github.com/evgeniyarbatov/gnss) - map Android GNSS satellite IDs to NORAD IDs  
 
