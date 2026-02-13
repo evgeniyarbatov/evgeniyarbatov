@@ -4,5 +4,5 @@ I write code to make sense of real-world data.
 
 [[private]](https://[private].gritcuriosityandperseverance.org) - restore GPX files from memory based on TCX files  
 [outside](https://outside.gritcuriosityandperseverance.org) - get current weather and air pollution  
-[weather](https://weather.gritcuriosityandperseverance.org) - render last 48 hours of weather data for specific location
+[weather](https://weather.gritcuriosityandperseverance.org) - render last 48 hours of weather data for specific location  
 [VR ultra run](https://[private].gritcuriosityandperseverance.org) - virtual challenge to run length of Vietnam
