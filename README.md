@@ -8,4 +8,5 @@ I write code to make sense of real-world data.
 [VR ultra run](https://vietnam-vr-ultra.gritcuriosityandperseverance.org) - virtual challenge to run length of Vietnam  
 [Singapore streets](https://github.com/evgeniyarbatov/singapore-streets) - scrape Singapore street names from OSM  
 [GNSS](https://github.com/evgeniyarbatov/gnss) - map Android GNSS satellite IDs to NORAD IDs  
+[photo map](https://github.com/evgeniyarbatov/photo-map) - local web app to browse geotagged photos on the map
 
