@@ -10,4 +10,5 @@ I write code to make sense of real-world data.
 [GNSS](https://github.com/evgeniyarbatov/gnss) - map Android GNSS satellite IDs to NORAD IDs  
 [photo map](https://github.com/evgeniyarbatov/photo-map) - local web app to browse geotagged photos on the map  
 [stargazing on the run](https://github.com/evgeniyarbatov/stargazing-on-the-run) - rendering of night sky based on GPX files  
+[star art](https://github.com/evgeniyarbatov/star-art) - creating artworks based on Hipparcos catalog  
 
