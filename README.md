@@ -2,7 +2,7 @@
 
 I write code to make sense of real-world data.
 
-[tcx2gpx](https://tcx2gpx.gritcuriosityandperseverance.org) - create GPX files from memory based on TCX files  
+[tcx2gpx](https://tcx2gpx.gritcuriosityandperseverance.org) - make GPX files from memory based on TCX files  
 [outside](https://outside.gritcuriosityandperseverance.org) - current weather and air pollution  
 [weather](https://weather.gritcuriosityandperseverance.org) - last 48 hours of weather data for specific location  
 [VR ultra run](https://vietnam-vr-ultra.gritcuriosityandperseverance.org) - virtual challenge to run length of Vietnam  
