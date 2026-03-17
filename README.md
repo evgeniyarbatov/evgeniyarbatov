@@ -5,7 +5,7 @@ I write code to make sense of real-world data.
 [strava activity description](https://github.com/evgeniyarbatov/strava-activity-description) - using LLMs to generate Strava activity description  
 [hanoi walking tours](https://[private]) - walking route recommendations based on running data  
 [[private]](https://[private]) - make GPX files from memory based on TCX files  
-[VR ultra run](https://[private].gritcuriosityandperseverance.org) - virtual challenge to run length of Vietnam  
+[VR run](https://[private]) - virtual running challenge  
 [singapore streets](https://github.com/evgeniyarbatov/singapore-streets) - scrape Singapore street names from OSM  
 [outside](https://outside.gritcuriosityandperseverance.org) - current weather and air pollution  
 [weather](https://weather.gritcuriosityandperseverance.org) - last 48 hours of weather data for specific location  
