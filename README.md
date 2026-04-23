@@ -2,6 +2,7 @@
 
 I write code to make sense of real-world data.
 
+[gpx art](https://github.com/evgeniyarbatov/gpx-art) - turn GPX traces into artworks  
 [strava activity description](https://github.com/evgeniyarbatov/strava-activity-description) - using LLMs to generate Strava activity description  
 [hanoi walking tours](https://hanoi-walking-tours.arbatov.uk) - walking route recommendations based on running data  
 [tcx2gpx](https://tcx2gpx.arbatov.uk) - make GPX files from memory based on TCX files  
