@@ -2,6 +2,7 @@
 
 I write code to make sense of real-world data.
 
+[vibing](https://github.com/evgeniyarbatov/vibing) - transcribe and clean voice notes locally on macOS  
 [gpx courses](https://github.com/evgeniyarbatov/gpx-courses) - merge multiple GPX files using OSM and OSRM  
 [vibe mapping](https://github.com/evgeniyarbatov/vibe-mapping) - create OSM map overlays with ollama  
 [gpx art](https://github.com/evgeniyarbatov/gpx-art) - turn GPX traces into artworks  
