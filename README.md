@@ -18,5 +18,6 @@ I write code to make sense of real-world data.
 [stargazing on the run](https://github.com/evgeniyarbatov/stargazing-on-the-run) - view night sky based on GPX files  
 [star art](https://github.com/evgeniyarbatov/star-art) - create artworks based on Hipparcos catalog  
 [time](https://time.gritcuriosityandperseverance.org) - know exact time for setting analog watches and clocks  
+[space images](https://github.com/evgeniyarbatov/space-images) - inspire the next astronaut and space explorer  
 
 
