@@ -8,7 +8,6 @@ I write code to make sense of real-world data.
 [gpx art](https://github.com/evgeniyarbatov/gpx-art) - turn GPX traces into artworks  
 [strava activity description](https://github.com/evgeniyarbatov/strava-activity-description) - using LLMs to generate Strava activity description  
 [hanoi walking tours](https://[private]) - walking route recommendations based on running data  
-[[private]](https://[private]) - make GPX files from memory based on TCX files  
 [VR run](https://[private]) - virtual running challenge  
 [singapore streets](https://github.com/evgeniyarbatov/singapore-streets) - scrape Singapore street names from OSM  
 [outside](https://outside.gritcuriosityandperseverance.org) - current weather and air pollution  
