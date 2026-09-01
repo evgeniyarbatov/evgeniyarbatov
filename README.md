@@ -21,3 +21,6 @@ I write code to make sense of real-world data.
 [constellations](https://github.com/evgeniyarbatov/constellations) - learn to find star constellations visible in the night sky  
 [solar & lunar times](https://github.com/evgeniyarbatov/solar-lunar-times) - exact daily sunrise/sunset and moonrise/moonset times  
 [sun year](https://github.com/evgeniyarbatov/sun-year) - year-round solar charts  
+[sapa wildlife](https://github.com/evgeniyarbatov/sapa-wildlife) - catalog of wildlife along VMM race course  
+[vmm stargazing](https://github.com/evgeniyarbatov/vmm-stargazing) - stargazing locations along night segments of VMM  
+[missing osm footpaths](https://github.com/evgeniyarbatov/gpx-osm-missing-paths) - using personal GPX to identify missing footpaths in OSM  
