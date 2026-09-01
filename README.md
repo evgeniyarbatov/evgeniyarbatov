@@ -7,8 +7,6 @@ I write code to make sense of real-world data.
 [vibe mapping](https://github.com/evgeniyarbatov/vibe-mapping) - create OSM map overlays with ollama  
 [gpx art](https://github.com/evgeniyarbatov/gpx-art) - turn GPX traces into artworks  
 [strava activity description](https://github.com/evgeniyarbatov/strava-activity-description) - using LLMs to generate Strava activity description  
-[hanoi walking tours](https://[private]) - walking route recommendations based on running data  
-[VR run](https://[private]) - virtual running challenge  
 [singapore streets](https://github.com/evgeniyarbatov/singapore-streets) - scrape Singapore street names from OSM  
 [outside](https://outside.gritcuriosityandperseverance.org) - current weather and air pollution  
 [weather](https://weather.gritcuriosityandperseverance.org) - last 48 hours of weather data for specific location  
