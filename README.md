@@ -24,7 +24,7 @@ Software engineer. I write code to make sense of real-world data: maps, GPS trac
 [weather](https://weather.gritcuriosityandperseverance.org) - last 48 hours of weather data for specific location  
 [time](https://time.gritcuriosityandperseverance.org) - know exact time for setting analog watches and clocks  
 
-## Just for fun
+## Play
 
 [stargazing on the run](https://github.com/evgeniyarbatov/stargazing-on-the-run) - view night sky based on GPX files  
 [vmm stargazing](https://github.com/evgeniyarbatov/vmm-stargazing) - stargazing locations along night segments of VMM  
