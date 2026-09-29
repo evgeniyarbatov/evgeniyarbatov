@@ -21,7 +21,7 @@ Software engineer. I write code to make sense of real-world data: maps, GPS trac
 [vibing](https://github.com/evgeniyarbatov/vibing) - transcribe voice notes locally on macOS  
 [outside](https://outside.gritcuriosityandperseverance.org) - current weather and air pollution  
 [weather](https://weather.gritcuriosityandperseverance.org) - last 48 hours of weather data for specific location  
-[time](https://time.gritcuriosityandperseverance.org) - know exact time for setting analog watches and clocks  
+[time](https://github.com/evgeniyarbatov/time) - know exact time for setting analog watches and clocks  
 
 ## Play
 
