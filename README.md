@@ -14,7 +14,6 @@ Software engineer. I write code to make sense of real-world data: maps, GPS trac
 [gpx art](https://github.com/evgeniyarbatov/gpx-art) - turn GPX traces into artworks  
 [vibe mapping](https://github.com/evgeniyarbatov/vibe-mapping) - create OSM map overlays with ollama  
 [GNSS](https://github.com/evgeniyarbatov/gnss) - map Android GNSS satellite IDs to NORAD IDs  
-[photo map](https://github.com/evgeniyarbatov/photo-map) - local web app to browse geotagged photos on the map  
 [sapa wildlife](https://github.com/evgeniyarbatov/sapa-wildlife) - catalog of wildlife along VMM race course  
 
 ## Tools
