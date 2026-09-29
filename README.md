@@ -6,7 +6,7 @@ I write code to make sense of real-world data.
 [gpx courses](https://github.com/evgeniyarbatov/gpx-courses) - merge multiple GPX files using OSM and OSRM  
 [vibe mapping](https://github.com/evgeniyarbatov/vibe-mapping) - create OSM map overlays with ollama  
 [gpx art](https://github.com/evgeniyarbatov/gpx-art) - turn GPX traces into artworks  
-[strava activity description](https://github.com/evgeniyarbatov/strava-activity-description) - using LLMs to generate Strava activity description  
+[run reflection](https://github.com/evgeniyarbatov/run-reflection) - using LLMs to turn each run into a reflection enriched with weather, traffic and places  
 [singapore streets](https://github.com/evgeniyarbatov/singapore-streets) - scrape Singapore street names from OSM  
 [outside](https://outside.gritcuriosityandperseverance.org) - current weather and air pollution  
 [weather](https://weather.gritcuriosityandperseverance.org) - last 48 hours of weather data for specific location  
