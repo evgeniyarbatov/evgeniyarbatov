@@ -4,17 +4,10 @@ Software engineer. I write code to make sense of real-world data: maps, GPS trac
 
 ## Featured
 
-**[singapore streets](https://github.com/evgeniyarbatov/singapore-streets)** - every named street in Singapore from OSM, categorised and mapped  
-`Python` `OSM` `Leaflet` `GitHub Pages` `Kaggle dataset`
-
-**[missing osm footpaths](https://github.com/evgeniyarbatov/gpx-osm-missing-paths)** - cluster personal GPX traces to find footpaths missing from OSM and export them for JOSM  
-`Python` `OSM` `osmium` `JOSM`
-
-**[gpx courses](https://github.com/evgeniyarbatov/gpx-courses)** - merge multiple GPX files into one clean course using OSM and OSRM  
-`Python` `Lua` `OSRM` `Overpass` `Docker`
-
-**[run reflection](https://github.com/evgeniyarbatov/run-reflection)** - turn each run into a reflection enriched with weather, traffic and places  
-`Python` `Ollama` `OSM` `AWS` `Terraform`
+[singapore streets](https://github.com/evgeniyarbatov/singapore-streets) - every named street in Singapore from OSM, categorised and mapped  
+[missing osm footpaths](https://github.com/evgeniyarbatov/gpx-osm-missing-paths) - cluster personal GPX traces to find footpaths missing from OSM and export them for JOSM  
+[gpx courses](https://github.com/evgeniyarbatov/gpx-courses) - merge multiple GPX files into one clean course using OSM and OSRM  
+[run reflection](https://github.com/evgeniyarbatov/run-reflection) - turn each run into a reflection enriched with weather, traffic and places  
 
 ## Maps and GPS
 
