@@ -4,6 +4,8 @@ Software engineer. I write code to make sense of real-world data: maps, GPS trac
 
 ## Featured
 
+[maps](https://github.com/evgeniyarbatov/maps) - open tools joining GPS traces with OpenStreetMap  
+[night sky](https://github.com/evgeniyarbatov/night-sky) - stars, sun charts and art from the sky above my runs  
 [singapore streets](https://github.com/evgeniyarbatov/singapore-streets) - every named street in Singapore from OSM, categorised and mapped  
 [missing osm footpaths](https://github.com/evgeniyarbatov/maps/tree/main/gpx-osm-missing-paths) - cluster personal GPX traces to find footpaths missing from OSM and export them for JOSM  
 [gpx courses](https://github.com/evgeniyarbatov/maps/tree/main/gpx-courses) - merge multiple GPX files into one clean course using OSM and OSRM  
